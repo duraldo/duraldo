@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @duraldo
-- 👀 LLMs and PLLMs
+- 👀 LLMs and PLLMs, learning python...
 - 🌱 Python basics ...
 - 💞️ Whatever ...
-- 📫 oscar@chaippy.com
+- 📫 oscbissot@gmail.com (at the moment, please use this email).
 
-#This is just a respository of notes/examples/answers for the crash course in python. Some may be similiar or even the same as others, but I added my own notes in the
-#Like this, as my background makes it very difficult to understand how I even come across these answers, they just work!
+- This is just a respository of notes/examples/answers for the crash course in python. Some may be similiar or even the same as others, but I added my own notes in the
+- Like this, as my background makes it very difficult to understand how I even come across these answers, they just work!
 
 <!---
 duraldo/duraldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
