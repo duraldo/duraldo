@@ -1,4 +1,5 @@
 ### I need help with this one, already submitted it, but I don't understand why it's wrong, it gave the right print out right?
+### Are they both supposed to have 1 apple? then johanna is supposed to have 2 and martin 1? I don't get it.
 
 # “If you have an apple and I have an apple and we exchange these apples then
 # you and I will still each have one apple. But if you have an idea and I have
